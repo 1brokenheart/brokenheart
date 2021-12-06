@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1brokenheart
 - 👀 I’m interested in collaborating in a project. 
 - 🌱 I’m currently learning SQL. Phyton. 
-- 💞️ I’m looking to collaborate on project to help me reach my goal to become a Data Scientist.
+- 💞️ I’m looking to collaborate on project to help me reach my goal to get a job as a Data Scientist.
 - 📫 you can contact me at selectallfrom123@gmail.com
 
 <!---
